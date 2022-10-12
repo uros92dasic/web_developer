@@ -1,0 +1,20 @@
+Termini
+
+16.06.2022 11:26:49 - Termin ceka potvrdu: 'Test1' '1' '2022-06-17' ('Komentar').
+16.06.2022 11:27:05 - Termin ceka potvrdu: 'Test2' '2' '2022-07-01' ('Test2').
+16.06.2022 11:27:15 - Termin ceka potvrdu: 'Test3' '3' '2022-08-01' ('').
+16.06.2022 11:27:32 - Termin ceka potvrdu: 'Test4' '4' '2023-01-01' ('Komentar 4').
+16.06.2022 11:28:15 - Termin ceka potvrdu: 'Test5' '5' '2023-01-01' ('').
+27.06.2022 10:24:34 - Termin ceka potvrdu: 'Test6' '6' '2023-01-01' ('').
+27.06.2022 11:02:04 - Termin ceka potvrdu: 'Test' '1' '2022-07-01' ('').
+27.06.2022 11:02:33 - Termin ceka potvrdu: 'Cane Kurbla' '3' '2022-06-29' ('member').
+27.06.2022 11:02:59 - Termin ceka potvrdu: 'Pera Peric' '6' '2022-07-09' ('admin').
+10.10.2022 11:31:32 - Termin ceka potvrdu: '1234' '1' '2022-10-14' ('4321').
+12.10.2022 09:18:42 - Termin ceka potvrdu: 'Cane Kurbla' '0' '2022-10-13' ('Cane').
+12.10.2022 09:19:34 - Termin ceka potvrdu: 'gew' '0' '2022-10-27' ('weg').
+12.10.2022 09:19:51 - Termin ceka potvrdu: 'ewg' '1' '2022-10-27' ('').
+12.10.2022 09:20:45 - Termin ceka potvrdu: 'viser' '1' '2022-10-13' ('viser').
+12.10.2022 09:21:00 - Termin ceka potvrdu: 'biontek' '2' '2022-10-21' ('b').
+12.10.2022 09:22:36 - Termin ceka potvrdu: 'viser' '1' '2022-10-19' ('viser').
+12.10.2022 09:22:46 - Termin ceka potvrdu: 'moderna' '3' '2022-10-27' ('m').
+12.10.2022 09:23:01 - Termin ceka potvrdu: 'astrazeneka' '6' '2022-10-29' ('zzz').

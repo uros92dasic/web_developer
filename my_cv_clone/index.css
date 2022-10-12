@@ -1,0 +1,90 @@
+.headerOne {
+    background-color: gray;
+}
+
+.italicText {
+    font-style: italic;
+    font-size: smaller;
+}
+
+.headerTwo {
+    padding-left: 5px;
+}
+
+.smallFont {
+    font-size: smaller;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.grayText {
+    color: gray;
+    font-size: small;
+}
+
+.educationPadding {
+    padding-bottom: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: darkgray;
+}
+
+.divPadding {
+    padding: 10px;
+}
+
+.headerOne span.firstName {
+    font-weight: lighter;
+    color: white;
+}
+
+.headerOne span.lastName {
+    font-weight: normal;
+    color: white;
+}
+
+.headerTwo span.one {
+    color:aqua;
+}   
+
+.headerTwo span.two {
+    color:rgb(226, 81, 195);
+} 
+
+.headerTwo span.three {
+    color:orange;
+} 
+
+.headerTwo span.four {
+    color: rgb(180, 255, 95);
+}
+
+.contactPosition {
+    text-align: right;
+}
+
+@media (max-width: 767px) {
+    .contactPosition {
+        text-align: left !important;
+    }
+    .year {
+        text-align: left !important;
+    }
+    .paddingTop {
+        margin-top: 15px !important;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .email {
+        margin-left: -1rem !important;
+    }
+}
+
+.year {
+    white-space: nowrap;
+}
